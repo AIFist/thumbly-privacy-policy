@@ -1,4 +1,3 @@
-'''
 # Privacy Policy
 
 Last updated: 
@@ -48,4 +47,3 @@ We may update this privacy policy to reflect changes in app functionality. Updat
 If you have any questions or concerns about this privacy policy, please contact us at:
 - [support@aifist.com](mailto:support@aifist.com)
 - [www.aifist.com](https://www.aifist.com)
-              '''
