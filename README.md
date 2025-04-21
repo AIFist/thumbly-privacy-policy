@@ -1,13 +1,12 @@
 # Privacy Policy
 
-Last updated: 
+**Last updated: 12/4/2025**
 
 ## Overview
 
-This app allows users to: 12/4/2025
+This app allows users to:
 - Share YouTube videos.
-- Download video thumbnails to the public folder (/Pictures).
-- Copy video descriptions, titles, hashtags, keywords, and transcripts.
+- View and copy video descriptions, titles, hashtags, keywords, and transcripts.
 - Use Gemini AI to generate new scripts from video transcripts.
 
 We are committed to protecting your privacy and ensuring transparency about how your data is handled.
@@ -18,7 +17,7 @@ This app does **not** collect or store any personal information. The app operate
 
 ## Permissions
 
-The app does not request any special permissions. It only saves thumbnails to the public folder (/Pictures) on your device.
+The app does not request any special permissions. All features work without accessing sensitive data or device information.
 
 ## How We Use Your Information
 
